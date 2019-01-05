@@ -2,3 +2,6 @@ language: python
 rvm:
  - '3.5.3'
  - python
+ 
+ env:
+ - GITHUB_TOKEN=4c43fb0b735560bffb5ff3ef44d11c1f9cfe6b1b
